@@ -4,7 +4,7 @@ android {
     compileSdkVersion 29
 
     defaultConfig {
-        applicationId "com.example.card_view_example"
+        applicationId "com.example.my_annotations"
         minSdkVersion 16
         targetSdkVersion 29
         versionCode 1

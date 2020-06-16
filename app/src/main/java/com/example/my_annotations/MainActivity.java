@@ -1,4 +1,4 @@
-package com.example.base_app;
+package com.example.my_annotations;
 
 import android.os.Bundle;
 
