@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Annotations</string>
+    <string name="hint_text">Click on ✓ to save your file</string>
 </resources>
